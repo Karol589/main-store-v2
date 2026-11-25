@@ -1,0 +1,8 @@
+# Credenciales locales (cada integrante crea la suya desde database.example.php)
+config/database.php
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
